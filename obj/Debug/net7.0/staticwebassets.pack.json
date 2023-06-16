@@ -1,0 +1,865 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\waAlquimia.bundle.scp.css",
+      "PackagePath": "staticwebassets\\waAlquimia.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\bootstrap-datetimepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\colors\\moderate-green.css",
+      "PackagePath": "staticwebassets\\css\\colors\\moderate-green.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\colors\\orange.css",
+      "PackagePath": "staticwebassets\\css\\colors\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\colors\\strong-blue.css",
+      "PackagePath": "staticwebassets\\css\\colors\\strong-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\colors\\vivid-yellow.css",
+      "PackagePath": "staticwebassets\\css\\colors\\vivid-yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\North Carossela 400.otf",
+      "PackagePath": "staticwebassets\\fonts\\North Carossela 400.otf"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\Pavanam-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Pavanam-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\nautilus-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\nautilus-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\fonts\\nautilus-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\nautilus-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\131.jpg",
+      "PackagePath": "staticwebassets\\images\\131.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\3424.jpg",
+      "PackagePath": "staticwebassets\\images\\3424.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A0602.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A0602.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A4652.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A4652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A8586.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A8586.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9142.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9142.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9174.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9174.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9178.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9400-2.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9400-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9733.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9733.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9738.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9758.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9758.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\BS7A9883.jpg",
+      "PackagePath": "staticwebassets\\images\\BS7A9883.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Camba muerto 3.jpg",
+      "PackagePath": "staticwebassets\\images\\Camba muerto 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Docentes 1.jpg",
+      "PackagePath": "staticwebassets\\images\\Docentes 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Docentes 4.jpg",
+      "PackagePath": "staticwebassets\\images\\Docentes 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\El Deber Navidad03566.jpg",
+      "PackagePath": "staticwebassets\\images\\El Deber Navidad03566.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Equipo1.jpg",
+      "PackagePath": "staticwebassets\\images\\Equipo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Equipo2.jpg",
+      "PackagePath": "staticwebassets\\images\\Equipo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Equipo3.jpg",
+      "PackagePath": "staticwebassets\\images\\Equipo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Equipo4.jpg",
+      "PackagePath": "staticwebassets\\images\\Equipo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Equipo5.jpg",
+      "PackagePath": "staticwebassets\\images\\Equipo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Fuego 1.jpg",
+      "PackagePath": "staticwebassets\\images\\Fuego 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_0136.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_0136.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_0152.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_0152.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_0154.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_0154.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_0159.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_0159.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_0160.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_0160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_2804.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_2804.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_2810.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_2810.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3499.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3499.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3586.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3586.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3588.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3588.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3682.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3682.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3691.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3691.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3803.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3803.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3804.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3804.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3885.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3885.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_3919.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_3919.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_4012.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_4019.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_5843.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_5843.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_5988.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_5988.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\IMG_6015.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_6015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\LOGO-FINAL.png",
+      "PackagePath": "staticwebassets\\images\\LOGO-FINAL.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Menu1.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Menu2.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Menu3.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Menu4.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Menu5.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Menu6.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\Portada.jpg",
+      "PackagePath": "staticwebassets\\images\\Portada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9467.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9467.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9485.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9485.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9508.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9516.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9516.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9532.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9532.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9538.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9538.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9619.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9619.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9663.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9663.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\_B4A9673.jpg",
+      "PackagePath": "staticwebassets\\images\\_B4A9673.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\about-inset.jpg",
+      "PackagePath": "staticwebassets\\images\\about-inset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\about-main.jpg",
+      "PackagePath": "staticwebassets\\images\\about-main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\back.png",
+      "PackagePath": "staticwebassets\\images\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\back_hover.png",
+      "PackagePath": "staticwebassets\\images\\back_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\blog_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\cambamuerto.jpg",
+      "PackagePath": "staticwebassets\\images\\cambamuerto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\coffee.png",
+      "PackagePath": "staticwebassets\\images\\coffee.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\featured-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\food.png",
+      "PackagePath": "staticwebassets\\images\\food.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\footer_background.jpg",
+      "PackagePath": "staticwebassets\\images\\footer_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\full-bg.png",
+      "PackagePath": "staticwebassets\\images\\full-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_01.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_02.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_03.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_04.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_05.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_06.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_07.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_08.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_09.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\gallery_10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\icon_top.png",
+      "PackagePath": "staticwebassets\\images\\icon_top.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\loader-animation.gif",
+      "PackagePath": "staticwebassets\\images\\loader-animation.gif"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-01.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-02.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-03.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-04.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-05.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-06.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-07.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-08.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-09.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\menu-item-thumbnail-10.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-item-thumbnail-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\newsletter-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\next_hover.png",
+      "PackagePath": "staticwebassets\\images\\next_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\sin título-3254.jpg",
+      "PackagePath": "staticwebassets\\images\\sin título-3254.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\sin título-3265.jpg",
+      "PackagePath": "staticwebassets\\images\\sin título-3265.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\sin título-4900.jpg",
+      "PackagePath": "staticwebassets\\images\\sin título-4900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\sin título-4902.jpg",
+      "PackagePath": "staticwebassets\\images\\sin título-4902.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\sin título-7365-2.jpg",
+      "PackagePath": "staticwebassets\\images\\sin título-7365-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\special-menu-1.jpg",
+      "PackagePath": "staticwebassets\\images\\special-menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\special-menu-2.jpg",
+      "PackagePath": "staticwebassets\\images\\special-menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\special-menu-3.jpg",
+      "PackagePath": "staticwebassets\\images\\special-menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\special_menu_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\special_menu_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\store.png",
+      "PackagePath": "staticwebassets\\images\\store.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\team_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\team_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\images\\waoz.jpg",
+      "PackagePath": "staticwebassets\\images\\waoz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\js\\ProductCard.js",
+      "PackagePath": "staticwebassets\\js\\ProductCard.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\js\\all.js",
+      "PackagePath": "staticwebassets\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Duran\\source\\repos\\waAlquimia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.waAlquimia.props",
+      "PackagePath": "build\\waAlquimia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.waAlquimia.props",
+      "PackagePath": "buildMultiTargeting\\waAlquimia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.waAlquimia.props",
+      "PackagePath": "buildTransitive\\waAlquimia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.waAlquimia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
